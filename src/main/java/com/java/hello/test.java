@@ -14,5 +14,6 @@ public class test {
         System.out.println("这里test git 三发生的修改我希望你可以接受 加油你好 你是最棒的");
         System.out.println("这里是新的分支new branch 产生的修改 希望你是最好的加油 加油不知道以后的生活应该何去何从");
         System.out.println("这里是 git 2 发生的修改 在 new branch 3 提交之后");
+        System.out.println("test pull request");
     }
 }
